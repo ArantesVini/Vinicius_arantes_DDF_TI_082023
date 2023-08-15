@@ -7,4 +7,4 @@ Quanto ao _SSO_ (Single sign-on) apesar de ser uma ferramenta muito efetiva para
 Sobre aos recursos de ciclo de vida de usuário é muito importante manter as políticas de  
 **separação de deveres**, de forma que atividades críticas do negócio fiquem divididas entre diferentes usuários e o princípio do **menor privilégio** (_Least Privilege_) para que cada usuário tenha acesso somente ao que é necessário para o desempenho da função.
 
-Dessa forma, além dos ganhos de melhoria de infraestrutura, processos e produto, evoluirmos também na nossa segurança, e por consequência dos nossos clientes.
+Dessa forma, além dos ganhos de melhoria de infraestrutura, processos e produto, evoluiremos também na nossa segurança, e por consequência dos nossos clientes.
