@@ -6,8 +6,12 @@ Olá, para facilitar a navegação dentro dos arquivos do repositório, fiz a di
 
 ## Cases apresentados no teste
 
-- (Case 1)[case-1.md];
-- (Case 2)[case-2.md];
-- (Case 3)[case-3.md];
-- (Case 4)[case-4.md];
-- (Case 5)[case-5.md].
+- [Case 1](case-1.md);
+
+- [Case 2](case-2.md);
+
+- [Case 3](case-3.md);
+
+- [Case 4](case-4.md);
+
+- [Case 5](case-5.md);
