@@ -8,7 +8,7 @@ SELECT user_email_id,
     user_email,
     data_cadastramento
 FROM user_emails ue
-WHERE data_cadastramento >= CURRENT_DATE - INTERVAL '30 days'
+WHERE data_cadastramento >= CURRENT_DATE - INTERVAL '30' DAY
 ORDER BY data_cadastramento DESC;
 ```
 
